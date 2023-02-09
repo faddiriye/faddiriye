@@ -6,7 +6,7 @@
 
 - 👯 I’m eager to collaborate on projects that aim to use data and technology to improve society and make a positive impact
 
-- 🤔 I’m always looking for opportunities to learn more about the ethical and privacy implications of using data and how we can ensure its responsible use.
+- 🤔 I’m always looking for opportunities to learn more about the ethical and privacy implications of using data and how we can ensure its responsible use
 
 - ⬇️ Check out all my projects and let me know what you think! 
 
