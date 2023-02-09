@@ -8,5 +8,5 @@
 
 - 🤔 I’m always looking for opportunities to learn more about the ethical and privacy implications of using data and how we can ensure its responsible use.
 
-- 💬 Check out all my projcts and let me know what you think! 
+- ⬇️ Check out all my projcts and let me know what you think! 
 
