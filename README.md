@@ -2,7 +2,7 @@
 
 👩🏽‍💻 I'm Fadumo, a passionate data enthusiast and specialist in Data Analytics and Data Science. Driven by the goal of solving complex problems using data, I am inspired by innovation, growth, and the potential for positive change. I am passionate about delving into messy data to uncover actionable insights and drive solutions through data-driven analysis.
 
-- 🌱 I am actively learning about various machine learning techniques and their applications across different industries.  Additionally, I am refining my database skills
+- 🌱 I am actively learning about various machine learning techniques and their applications across different industries. 
 
 - 👯 I’m eager to collaborate on projects that aim to use data and technology to improve society and make a positive impact
 
